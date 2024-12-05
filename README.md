@@ -32,9 +32,14 @@ Aquí tienes la descripción con el agradecimiento añadido:
 ![Simulator Screenshot - iPhone 16 Pro - 2024-12-05 at 15 21 50](https://github.com/user-attachments/assets/d6cd1631-71d1-4f79-b6b7-d531487baa59)
 
 
-![Simulator ![Simulator Screenshot - iPhone 16 Pro - 2024-12-05 at 15 21 45](https://github.com/user-attachments/assets/8f67da86-a515-4992-b9df-56a7237f27e9)
-Screenshot - iPhone 16 Pro - 2024-12-05 at 15 21 53](https://github.com/user-attachments/assets/74681968-b868-4077-b096-8efd94c21865)
+![Simulator![Simulator Screenshot - iPhone 16 Pro - 2024-12-05 at 15 21 45](https://github.com/user-attachments/assets/35e7d8d4-49a9-41c5-92d2-1dca6e8c7162)
+ ![Simulator Screenshot - iPhone 16 Pro - 2024-12-05 at 15 21 45](https://github.com/user-attachments/assets/8f67da86-a515-4992-b9df-56a7237f27e9)
+
+
+
+
 ![Simulator Screenshot - iPhone 16 Pro - 2024-12-05 at 15 21 47](https://github.com/user-attachments/assets/b562df3b-9b3d-472d-8046-ec4e0ce47e80)
+
 
 
 ## 🤝 Contributions
